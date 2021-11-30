@@ -1,0 +1,16 @@
+[
+{
+  "TransactionDetails":  [
+{
+	"TerminalId": "112",
+	"SiteName": "Australia",
+	"SiteId": "456",
+	"TransactionDateTime": "2021-11-30-00:12:11",
+	"CardNumber": "1234xxxxxxxxx2134",
+	"Amount": 123.234
+}
+]
+
+}
+
+]
